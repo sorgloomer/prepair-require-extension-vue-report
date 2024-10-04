@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.7",
+    "@babel/preset-env": "^7.25.7",
+    "@babel/preset-typescript": "^7.25.7",
+    "@prepair/require-extension-vue": "^5.0.1",
+    "vue": "^2.7.16"
+  }
+}
